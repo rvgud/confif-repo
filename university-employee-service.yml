@@ -1,6 +1,6 @@
 spring:
       application:
-        name: emp-service
+        name: university-employee-service
       jpa:
       show-sql: true
       h2:
